@@ -283,8 +283,7 @@ img {
   background-position: center;
   background-color: #2e2f42;
   background-size: cover;
-
-  /* max-width: 1440px; */
+  max-width: 1440px;
 }
 
 .hero-header {
@@ -634,6 +633,7 @@ img {
   letter-spacing: 0.02em;
   background-color: #4d5ae5;
   padding: 40px 32px;
+  height: 100%;
 }
 
 .portfolio-item-info {
